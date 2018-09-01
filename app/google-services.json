@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "976875534347",
+    "firebase_url": "https://pickup-android-application.firebaseio.com",
+    "project_id": "pickup-android-application",
+    "storage_bucket": "pickup-android-application.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:976875534347:android:e8eeee1a186deab2",
+        "android_client_info": {
+          "package_name": "com.example.chilis2142.pickup"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "976875534347-p161f846kfio11c7gnel1lsdrac7fhbg.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.chilis2142.pickup",
+            "certificate_hash": "9cb79e056fe515f562043b3b936ae89a55955c1b"
+          }
+        },
+        {
+          "client_id": "976875534347-uk9pcft363l9f09ck1aej8u8c684d9s0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDn0HGXA5umOo8TLxDLZaRV1h5EJXio258"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "976875534347-uk9pcft363l9f09ck1aej8u8c684d9s0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
