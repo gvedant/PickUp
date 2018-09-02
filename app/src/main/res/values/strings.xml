@@ -1,3 +1,8 @@
 <resources>
     <string name="app_name">PickUp</string>
+
+        <!-- Facebook application ID and custom URL scheme (app ID prefixed by 'fb'). -->
+        <string name="facebook_application_id" translatable="false">Y2133344530271078</string>
+        <string name="facebook_login_protocol_scheme" translatable="false">2133344530271078</string>
+
 </resources>
